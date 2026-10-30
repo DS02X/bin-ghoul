@@ -1,3 +1,5 @@
+<img width="1906" height="907" alt="demo2" src="https://github.com/user-attachments/assets/4f583726-59ac-4896-9515-82805e249439" />
+
 # The Bin-Ghoul: Echoes from the Recycle Bin
 
 Your Recycle Bin is a graveyard. Bin-Ghoul reads it (read-only), and a small open-weight model running **on your own computer** writes a ghostly epitaph for every file you threw away. Click a tombstone to wake the spirit.
